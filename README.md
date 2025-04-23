@@ -42,4 +42,7 @@ The module captures underwater imagery and uses an image classification model to
 | NumPy            | latest         |
 | Matplotlib       | latest         |
 
+You can install all required packages using:
 
+```bash
+pip install -r requirements.txt
